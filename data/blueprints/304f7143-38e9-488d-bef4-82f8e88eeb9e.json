@@ -1,0 +1,304 @@
+{
+  "version": 2.12,
+  "blueprint_id": "304f7143-38e9-488d-bef4-82f8e88eeb9e",
+  "name": "Carta de Evento",
+  "layout_size": "63.5, 88.9",
+  "layout_grid_size": "0.3333333, 0.3333333",
+  "layout_grid_offset": "0, 0",
+  "layout_grid_square": false,
+  "layout_grid_centered": false,
+  "main_panel_id": "00000000-0000-0000-0000-000000000000",
+  "front_layers": [
+    {
+      "layer_id": "90568f39-4901-4515-9b19-e8a594e8de25",
+      "name": "Layer 01 Border",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "ad4f3537-eb48-4aed-8047-f8d6f019b1bf",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#292A30FF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "4e1c9f07-6368-4bee-ae6f-4dc7d470476d",
+      "name": "Layer 02 Background",
+      "padding": 0.07874016,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "67305d3a-a1fc-49ed-80c8-a9fdd0fd7201",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/bg.png",
+            "mask_uri": "",
+            "fit_mode": "stretch",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#E1E7F2FF"
+          },
+          "sort_mode": "1",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+      "name": "Content",
+      "padding": 0.157480314,
+      "spacing": 0.0629921257,
+      "panels": [
+        {
+          "panel_id": "f5c550cb-62c0-4617-a569-7fb9e07251d4",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 2.04432E-08",
+          "anchor_max": "1, 0.0002007637",
+          "anchor_max_render": "1, -0.02514777",
+          "type": "none",
+          "data": {},
+          "sort_mode": "2",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.0002007637",
+          "anchor_min_render": "0, 0.02554934",
+          "anchor_max": "1, 0.6922563",
+          "anchor_max_render": "1, 0.6669078",
+          "type": "text",
+          "data": {
+            "font_family": "Georgia",
+            "font_preferred_size": 18,
+            "line_spacing": 1.0,
+            "text_anchor": "uppercenter",
+            "text": "Usa esta carta inmediatamente despues de que mueran <b>Kirov</b> o <b>Ordzhonikidze</b>\n\nDos camaradas bajo sospecha mueren\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Khrushchev</b>",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "3",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.6922563",
+          "anchor_min_render": "0, 0.7176049",
+          "anchor_max": "1, 0.9990627",
+          "anchor_max_render": "1, 0.9737141",
+          "type": "text",
+          "data": {
+            "font_family": "Georgia Bold",
+            "font_preferred_size": 28,
+            "line_spacing": 1.2,
+            "text_anchor": "middlecenter",
+            "text": "Conspiración de Asesinato\n {Body&Actions/imprisoned} ",
+            "color": "#720812FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "4",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "03c72ea1-e59c-44d1-bd10-bb8dc04ef407",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.9990627",
+          "anchor_min_render": "0, 1.024411",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "text",
+          "data": {
+            "font_family": "Georgia Bold",
+            "font_preferred_size": 22,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "Lavrenty Beria",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "5",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "13ceb854-a513-47f9-a3ea-6409d44d7246",
+      "name": "",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "4b619429-e4aa-459c-8fdc-6d292160c2f6",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "none",
+          "data": {},
+          "sort_mode": "6",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "c737c919-3b6d-4890-90ef-a5760898eecc",
+      "name": "Layer 01 Back",
+      "padding": 2.638507E-05,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "af132c37-1977-4c81-bb66-1c0fcbb6efdc",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#000000FF"
+          },
+          "sort_mode": "7",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "53d65f0e-810f-46a8-9b00-c1dc4a0cdacb",
+      "name": "Picture",
+      "padding": 0.07874016,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "fb5fbd60-f3a4-4e68-86bb-1cbb57fdf81c",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/pback2.png",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#FFFFFFFF"
+          },
+          "sort_mode": "8",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

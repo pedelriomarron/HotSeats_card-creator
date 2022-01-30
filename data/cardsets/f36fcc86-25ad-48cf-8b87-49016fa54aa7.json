@@ -1,0 +1,42 @@
+{
+  "version": 2.12,
+  "cardset_id": "f36fcc86-25ad-48cf-8b87-49016fa54aa7",
+  "name": "Carta de Koba",
+  "blueprint_id": "98a6e0d4-2b2a-4f0d-9f40-5866644ef104",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "aa99f1f0-9274-43b0-95d3-8da3f1ae70b2",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "846d68f7-25d8-4b60-9bc4-7bcec872b8c1",
+          "panels": [
+            {
+              "blueprint_panel_id": "bac23f1e-0d85-4c5a-a887-0ad5f788c3a9",
+              "type": "text",
+              "data": {
+                "text": "<b>5</b>: Sospecha/Mata a <b>2</b>"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "39ca3718-45d0-44c5-822c-4f9ed1a0d173",
+          "panels": [
+            {
+              "blueprint_panel_id": "1eb12cf6-860f-4506-af12-62985a14429a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Tabletop/rolling-dices",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

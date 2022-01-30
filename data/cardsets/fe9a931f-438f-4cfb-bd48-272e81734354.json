@@ -1,0 +1,473 @@
+{
+  "version": 2.12,
+  "cardset_id": "fe9a931f-438f-4cfb-bd48-272e81734354",
+  "name": "UNNAMED",
+  "blueprint_id": "304f7143-38e9-488d-bef4-82f8e88eeb9e",
+  "hint_order_index": 3,
+  "cards": [
+    {
+      "card_id": "dd652b6f-a564-4f80-ae53-17a0d6698e4c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "90568f39-4901-4515-9b19-e8a594e8de25",
+          "panels": [
+            {
+              "blueprint_panel_id": "ad4f3537-eb48-4aed-8047-f8d6f019b1bf",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "offset": "0.3092851, 0.003201709"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Usa esta carta inmediatamente despues de que mueran <b>Iglesias</b> o <b>Casado</b>\n\nDos políticos bajo sospecha mueren\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Sánchez</b>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d5e16ed8-7a04-4483-b36e-3c3215dc5196",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Coloca esta carta debajo de cualquier político que no sea una mujer del <b>PSOE</b> antes del lanzamiento del <b>Rey</b>\n\n<i>Hasta el final del juego</i> el texto de esta carta será: \n\"Cualquier político cae bajo sospecha.\"\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Arrimadas</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Socialismo es feminismo\n{Cinema/rose} = {Abstract/female}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8b50857d-1284-4e96-8bdc-6f921a0c9560",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Usa esta carta inmediatamente despues de que mueran <b>Rivera</b> o <b>Abascal</b>\n\n- Tres políticos caen bajo sospecha.\n- Perdonas a dos políticos.\n(Haz una o las dos a voluntad)\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Casado</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Fractura de Derecha\n{Body&Actions/broken-bone}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "80b1b525-2038-4611-9dc1-948ab69dc1b8",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta cuando un político vaya a morir por un lanzamiento del <b>Rey</b>\n\nCae bajo sospecha pero no muere, sino que se mueve al final de la cola\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Arrimadas</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Vuelo a Bélgica\n{Creatures/commercial-airplane}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d6005e9f-63bf-447a-ba18-2aef351231bd",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de un lanzamiento del <b>Rey</b> y ponla debajo de un político.\n\nLa próxima vez que el político caiga bajo sospecha, esta carta se descarta y no pasa nada.\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Irene Montero</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Necesitan más que sospechas\n{Tabletop/card-ace-hearts}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e0057554-39d5-4544-9d4f-e5167d51bc9b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Usa esta carta antes de que lance el <b>Rey</b> y colócala debajo de cualquier político bajo sospecha.\n\nPermanece bajo sospecha <i>hasta que termine el juego</i>, pero elige a dos políticos que caen bajo sospecha\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Abascal</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Psicópata\n{Body&Actions/machete}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3db89ec8-9a8f-4561-ad62-e0cf10f2bc29",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de un lanzamiento del <b>Rey</b>.\n\nTodos los efectos de tipo <i>\"hasta el final del juego\"</i> quedan cancelados.\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Errejón</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Indulto del Supremo\n{Cinema/banging-gavel}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b0ba96f6-1dc7-4e55-a73e-d0ad7361595e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de un lanzamiento del <b>Rey</b> si el político <b>Iglesias</b> está vivo.\n\nPon a un político bajo sospecha y los tiros del <b>Rey</b> se cancelan este turno. \n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Iglesias</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Referendum Republica\n{Other/vote}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "50c79515-2626-402f-903f-54383ff2a6d5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de un lanzamiento del <b>Rey</b>.\n\nMueve a un político al inicio de la cola, al lado del <b>Rey</b>, este político cae bajo sospecha.\n\nSi ya estaba bajo sospecha, la mayoría de jugadores elige si vive o muere (pero permanece bajo sospecha)."
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Huelga de Ganaderos\n{Body&Actions/farmer}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "13799587-48c1-47a8-991c-5b5da9e5b8ab",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de que comiencen los lanzamientos del <b>Rey</b>.\n\nTodos los tiros del <b>Rey</b> en este turno de cancelan. Entre los 5 camaradas más cercanos al <b>Rey</b>, elige a uno bajo sospecha, este político muere.\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Ábalos</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Salva a mi Familia\n{Abstract/family-tree}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "56ecde1f-a04c-404a-9a37-c79ce0a53149",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de un lanzamiento del <b>Rey</b>.\n\nDos políticos caen bajo sospecha y se mueven al final de la cola.\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Ábalos</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Limpiando la Corrupción\n{Other/money-stack}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4911e19a-5bb4-4455-92c1-749fc4695ed2",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta cuando un político muera por el lanzamiento del <b>Rey</b>.\n\nEste político no muere pero permanece bajo sospecha.\n\nTres políticos caen bajo sospecha\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Abascal</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Defendiendo la Sanidad\n{Building/hospital}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "49b0cad7-7c70-4191-bef3-7e7ca68ef4f3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Antes del lanzamiento del <b>Rey</b> pon esta carta debajo de cualquier político, en este turno no lo pueden sospechar ni matar.\n\nDespues del lanzamiento del <b>Rey</b>, elimina esta carta\n\nSi el juego termina mientras está esta carta sobre la mesa, el político que la tenga no se tiene en cuenta para determinar el ganador.\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Ortega Smith</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Internacionalista\n{Abstract/european-flag}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3e08df0f-79ce-4570-8ee8-89e9d24d22ce",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta cuando un político que <b>no</b> sea una mujer del <b>PSOE</b> muera por el lanzamiento del <b>Rey</b>.\n\nEn lugar de morir este político va al final de la cola.\n\nTodos los demás lanzamientos de este movimiento se cancelan.\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Sánchez</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Curso de Deconstrucción, para quien lo necesite...\n{Body&Actions/ba1_sex_male}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "24e784d3-c4ab-4b92-8623-028e45d79719",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de un lanzamiento del <b>Rey</b> si los políticos <b>Ortega Smith</b> y <b>Martínez-Almeida</b> están vivos.\n\nLos jugadores deben votar quien muere:\n <b>Ortega Smith</b> o <b>Martínez-Almeida</b>\n\n- Si <b>Ortega Smith</b> muere, todos los efectos de <i>\"hasta el final\"</i> se cancelan.\n\n- Si <b>Martínez-Almeida</b> muere, se cancelan los demás lanzamientos del <b>Rey</b> este turno\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Sánchez</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Peleillas por Madrid\n{Body&Actions/public-speaker}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c4404ce6-716a-4dec-ab21-39d4565a4047",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de los lanzamientos del <b>Rey</b>\n\nDos políticos caen bajo sospecha.\n\nPasa esta tarjeta a su vecino de la derecha.\n<i>\n\n\n\n(No se permite poner el simbolo del fascismo, y puse lo más parecido)</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Fachas!!\n{Abstract/hammer-sickle}\n"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1c20ef31-a5a1-4129-a6f3-2a1b84f44007",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82ced23f-8bea-40fd-a99b-d705e0489ad7",
+          "panels": [
+            {
+              "blueprint_panel_id": "98686a34-4784-41eb-94d8-bf33f11a54e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Utiliza esta carta antes de un lanzamiento del <b>Rey</b> y ponla debajo de un político bajo sospecha.\n\nPermanece bajo sospecha <i>hasta el final del juego</i>, y despues pon bajo sospecha a cualquier político\n\nO\n\nPon esta carta delante de tí, ahora estás apoyando a <b>Junqueras</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "ece7813e-86f5-43f7-a79e-885aca2e8f18",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Alcohólico\n{Chemical/beer-stein}"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

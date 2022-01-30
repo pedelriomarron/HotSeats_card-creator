@@ -1,0 +1,1423 @@
+{
+  "version": 2.12,
+  "cardset_id": "6504c176-b00b-4452-a9f6-24cd40ec5208",
+  "name": "Cartas de Personajes",
+  "blueprint_id": "f91c8113-1f56-43e5-b019-e5c66fc1e999",
+  "hint_order_index": 1,
+  "cards": [
+    {
+      "card_id": "6f9b5e85-9aca-4972-9e07-ef13fd39e4df",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n+1 en el tiro al <b>Rey</b>\no\nCualquier político cae bajo sospecha\no\nMueve a cualquier político dos posiciones izquierda o derecha"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Pedro Sánchez"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/opedro-sanchez-2-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "0.02996126, -0.07942036"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a8a43d11-04a3-40c6-8c51-00219d3db5a7",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n<b>Tirar el dado:</b>\n<b>1-3</b> - Perdona a cualquier político\n<b>4</b> - Mata a cualquier político\n<b>5-6</b> - <b>Carmen Calvo</b> muere\n\n<b>Muerte:</b> +1 a todos los tiros del <b>Rey</b> <i>hasta el final del juego</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Carmen Calvo"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Carmen-Calvo-e1578863277864-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "0.03994834, 0.03738257"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "2cbc5c54-7018-4cbd-96af-1d53a355ba93",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nUn político cae bajo sospecha.\n\nDespues de eso, mueve cualquier político (no necesariamente el mismo) en dos posiciones a izquierda o derecha"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "José Luis Ábalos"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/webpc-passthru-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "0.04394318, -0.05230539"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9e76e7ed-8675-4441-900f-97c4a36a193e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nMueve a el político más alejado al lugar junto al <b>Rey</b> (de ultimo a primero).\no\nMata a <b>María Jesús Montero</b> para cancelar todos los tiros del <b>Rey</b> en este turno."
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "María Jesús Montero"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/14012020_María_Jesús_Montero-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "0.04594059, -0.006418531"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "88d873f1-561c-46fb-af41-dd330aebab79",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nMueve a 1 político a una posición izquiera o derecha."
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Pablo Casado"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/pp.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Foto-Pablo-Casado-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "0.04594059, -0.05856269"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#AE0000FF",
+                "color_background": "#42424200"
+              }
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "PP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "450b9c56-8d8c-41c1-bf4f-650073ccec96",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nElimina cualquier efecto de tipo <i>\"hasta el final del juego\"</i>\no\nPerdona a cualquier político"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Isabel Díaz Ayuso"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/pp.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/isabel-diaz-ayuso-right (1).png",
+                "zoom": 1.0,
+                "offset": "0.05592768, -0.05856269"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#AE0000FF",
+                "color_background": "#42424200"
+              }
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "PP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d8712d86-cae7-446b-bff3-ee3d319ad137",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nTiro extra para el <b>Rey</b>\n\n-1 a todos los tiros del <b>Rey</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "José Luis Martínez-Almeida"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/pp.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jose-luis-martinez-almeida2-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "0.009987086, -0.02310466"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#AE0000FF",
+                "color_background": "#42424200"
+              }
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "PP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1d5b4b1e-e581-49d1-995a-33d271abe11a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nTres políticos caen bajo sospecha (pero no el propio <b>Abascal</b>)"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Santiago Abascal"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/vox.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/637116893380289400_1_630x630-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "0.0119845, -0.06690576"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Vox"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "6f5d530d-55cc-4aac-a80c-cf27ee3b0562",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nDos políticos caen bajo sospecha (pero no el propio <b>Ortega Smith</b>)\n\nMueve a cualquier político tres posiciones hacia el <b>Rey</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Javier Ortega Smith"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/vox.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Ortegasmith-PremiosHO2018__cropped_-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "0.02396901, -0.0147616"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#AE0000FF",
+                "color_background": "#42424200"
+              }
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Vox"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0a5be752-24b2-409e-a278-f95440827051",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n<b>Tirar el dado:</b>\n<b>1-3</b> - Mueve a <b>Espinosa de los Monteros</b> a 3 posiciones lejos del <b>Rey</b>\n<b>4-5</b> - Perdona a cualquier político\n<b>6</b> - No pasa nada"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Iván Espinosa de los Monteros"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/vox.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/bcadc9f2-e5ec-45bd-99ad-7e6b50ba9e28_16-9-discover-aspect-ratio_default_0_x700y322-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "-0.001997417, -0.03979079"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#AE0000FF",
+                "color_background": "#42424200"
+              }
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Vox"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "eca1ae33-d08f-4767-a442-e8b668e401e9",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nPerdona a un político.\n\n<b>Muerte:</b> Tres políticos caen bajo sospecha.\n+1 a todos los tiros del <b>Rey</b> <i>hasta el final del juego</i>."
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Pablo Iglesias"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/po.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/PABLO-IGLESIAS-PODEMOS-EFE-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "-0.009987086, -0.03770503"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Podemos"
+              }
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "42b67b2b-2852-408a-a866-280af1f1ac1a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nCancele el efecto de uno de los dos políticos próximos a el <b>Rey</b>.\n\n{Abstract/round-star} Cuando un jugador activa políticos esta tarjeta siempre se activa primero."
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Pablo Echenique"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/po.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/_echenique_04630145-removebg-preview (1) (1).png",
+                "zoom": 1.2,
+                "offset": "-0.04394318, -0.06481999"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9c069385-51c5-497c-9afa-47337e3bb458",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b6bf5c2-6c3b-4a83-9cde-3ee5883fc6d6",
+              "rotation": 0
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Podemos"
+              }
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c439dc40-35ef-4ec7-a21d-f77dd3eac01d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n<b>Irene Montero</b> no tiene propiedades especiales."
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Irene Montero"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/po.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/14012020_IreneMontero-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "0.007989668, -0.0210189"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Podemos"
+              }
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e689df38-263b-4eef-b6be-4a19d98bfc94",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nMueve a cualquier político a 3 posiciones izquierda o derecha.\nEl político movido cae bajo sospecha.\n\n+1 a todos los tiros del <b>Rey</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Albert Rivera"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/cs.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/e599e30e-3c70-450a-bbfb-5771b2f40139_16-9-discover-aspect-ratio_default_0-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "0.02996126, -0.05439116"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#AE0000FF",
+                "color_background": "#42424200"
+              }
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Cs"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a4e4a64c-7e0a-4892-9c14-b10b558b7efc",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Perdona a cualquier político\no\nUn político cae bajo sospecha."
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Inés Arrimadas"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/cs.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/la-diputada-electa-de-CIUDADANOS-Inés-Arrimadas-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "0.01797676, -0.03144773"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#AE0000FF",
+                "color_background": "#42424200"
+              }
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Cs"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "df773765-3293-492d-853e-1bda080cc0ae",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nHacer un tiro extra en lanzamiento del <b>Rey</b>. \n+2 a todos los tiros del <b>Rey</b>.\n\n<b>Muerte:</b> Perdona a tres políticos"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Oriol Junqueras"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/er.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/_Oriol_Junqueras__Retrat_oficial_del_Vicepresident_Oriol_Junqueras__cropped_-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "0.01398192, -0.008504298"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "ERC"
+              }
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "830712fc-38a7-4bea-8a2e-815e12b2a89a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nPerdona a cualquier político."
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Íñigo Errejón"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/mm.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/962909-removebg-preview (1).png",
+                "zoom": 1.0,
+                "offset": "0.02396901, -0.0189331"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b3436f14-b503-4b3e-be4e-e83150badd3f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "MP"
+              }
+            },
+            {
+              "blueprint_panel_id": "87d5b6dd-2b84-4cb8-bd57-6fb803e53d47",
+              "enabled": false,
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/two-coins",
+                "color_tint": "#108FD3FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ab4a70e7-b2a7-49f5-a9de-0257cdb159ff",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d41d1b38-e2a5-4d08-be20-5cfb8fb42918",
+          "panels": [
+            {
+              "blueprint_panel_id": "52d33cc9-a8be-4bba-aec2-3e7409628eb2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n<b>Tira el dado:</b>\n<b>1-2</b> - Coge una tarjeta de evento\n<b>3-5</b> - Un político cae bajo sospecha (pero no el propio <b>Puigdemont</b>)\n<b>6</b> - Coloca a <b>Puigdemont</b> al final de la cola.\n\n<b>Muerte:</b> Dos políticos caen bajo sospecha"
+              }
+            },
+            {
+              "blueprint_panel_id": "31bcb516-d4aa-4fcf-8d00-78b23a7c5446",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Carles Puigdemont"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4e45afb7-aa77-41ae-a019-35126b415846",
+          "panels": [
+            {
+              "blueprint_panel_id": "4395a0c5-5138-47bf-8c3d-50183464d44d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jxc.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "84180a56-fa46-4cb2-84bd-b80e0e1b7881",
+          "panels": [
+            {
+              "blueprint_panel_id": "72ab159e-0b0f-490a-b915-09e34d3d2566",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/640px-Retrat_oficial_del_President_Carles_Puigdemont_cropped-removebg-preview (1).png",
+                "zoom": 1.1,
+                "offset": "-0.01597934, -0.03770503"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9c069385-51c5-497c-9afa-47337e3bb458",
+          "panels": [
+            {
+              "blueprint_panel_id": "4b6bf5c2-6c3b-4a83-9cde-3ee5883fc6d6",
+              "rotation": 0
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c177e93d-81ff-4da7-b8d4-fdc6a352f578",
+          "panels": [
+            {
+              "blueprint_panel_id": "b729d64c-8fba-4ce6-b486-55c300f6a45f",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a40bd9f5-6624-4c1f-9f15-10894aa4638c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "JxCat"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
